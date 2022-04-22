@@ -4,3 +4,4 @@ Following the Django Tutorial found here [[https://docs.djangoproject.com/en/4.0
 ### Collaborators
 Simon Dunn
 Kieran Bird
+James Poprawski
